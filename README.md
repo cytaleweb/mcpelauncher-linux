@@ -6,7 +6,7 @@ This is just a fork with pre-made .sh installers to install all required libs an
 ## How to install
 1. Install
 ```
-./install_libs.sh
+./install_libs.sh (Coming soon)
 ./install.sh
 ```
 2. Done!
